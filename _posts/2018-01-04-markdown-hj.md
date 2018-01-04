@@ -18,7 +18,7 @@ description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-#올라가라 테스트중!! ㄴ 
+#올라가라 테스트중!! 
 ## 타이포라와 깃헙
 
  Github 이라는 게 너무 어려워서 항상 미루다가,
