@@ -1,4 +1,6 @@
----
+
+#아래 마크다운 기본 디폴트 작성 방법 
+
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
@@ -74,7 +76,7 @@ There are six levels of headings. They correspond with the six levels of HTML he
 1. Item 1
 2. A second item
 3. Number 3
-{% endhighlight %}
+  {% endhighlight %}
 
 ### Unordered list
 
@@ -88,7 +90,7 @@ There are six levels of headings. They correspond with the six levels of HTML he
 * Another item
 * Yet another item
 * And there's more...
-{% endhighlight %}
+  {% endhighlight %}
 
 ---
 
@@ -100,7 +102,7 @@ There are six levels of headings. They correspond with the six levels of HTML he
 
 {% highlight raw %}
 > Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
+> {% endhighlight raw %}
 
 ---
 
@@ -116,7 +118,7 @@ URLs can be made in a handful of ways:
 * A named link to [MarkItDown][3].
 * Another named link to [MarkItDown](http://markitdown.net/)
 * Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
+  {% endhighlight %}
 
 ---
 
