@@ -11,12 +11,10 @@ tag:
 - 글쓰기
 - 타이포라
 - 한번 더 써보기 
-  category: blog
-  author: hj
+category: blog
+author: hj
 description: Markdown summary with different options
 ---
-
-
 #두번째 Github 사용기
 
 오늘은 일단 타이포라로 올리는 것에 의의를 두자.
