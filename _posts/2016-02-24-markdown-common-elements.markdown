@@ -1,6 +1,7 @@
 
-#아래 마크다운 기본 디폴트 작성 방법 
+#아래 마크다운 기본 디폴트 
 
+---
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
